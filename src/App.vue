@@ -14,7 +14,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/spencerwooo/bit-webvpn-converter"
+        href="https://github.com/beiyuouo/hnu-webvpn-converter"
         target="_blank"
         text
       >
@@ -43,7 +43,7 @@
         </v-btn> -->
         <v-col class="py-4 text-center black--text" cols="12">
           ©{{ new Date().getFullYear() }} —
-          <strong>Built with love at <a href="http://www.bit.edu.cn/" target="_blank">BIT</a></strong>
+          <strong>Built with love at <a href="https://ha.hainanu.edu.cn/home2020/" target="_blank">HNU</a></strong>
         </v-col>
       </v-row>
     </v-footer>
