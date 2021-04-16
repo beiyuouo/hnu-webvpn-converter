@@ -161,7 +161,7 @@ export default Vue.extend({
       {
         name: '百度文库',
         url: 'wenku.baidu.com'
-      },
+      }
     ]
   }),
 
